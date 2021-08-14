@@ -51,7 +51,7 @@ After carefully and prudentially comparing, the values of parameters are as foll
 |CP Length| 20 |
 |Pilot Gap|20|
 
-I am sorry for not writing down why I am choosing these parameters here since it was really complicated and I would waste plenty of time explaining it, but if you want to know, **feel free to contact me at _qshan.yuezhao@gmail.com_!**
+I am sorry for not writing down why I am choosing these parameters here since it was really complicated and I would waste plenty of time explaining it, but if you want to know, **feel free to contact me at _qshan.yuezhao@gmail.com_!** or you can explore [LTE_EVA_ChannelwithMIMO/LTE_test](https://github.com/DaGuanYuan/LTE_EVA_ChannelwithMIMO/new/master/LTE_test) by yourself (it's really a tough work :pensive:).
 
 ### Results
 By Comprehesive consideration of **Communication Quality(Average BER), Transmission Rate, and Extra cost(produced by CP, pilot, encoding....)**, here preferred modulation methods under different communication circumstances are recommended and reference transmission speed is given as below:
