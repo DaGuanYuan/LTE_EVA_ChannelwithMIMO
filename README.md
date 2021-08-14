@@ -34,7 +34,7 @@
 - Time synchronization
 - Demodulation(BPSK, QPSK, 16QAM)
 - Deinterleaver
-- Convolution/Turbo decoding(Viterbe Algorithm)
+- Convolution/Turbo decoding(Viterbi Algorithm)
 - Signal received
 
 ## Conclusion
