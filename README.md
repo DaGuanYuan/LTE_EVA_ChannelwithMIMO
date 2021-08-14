@@ -37,6 +37,10 @@
 - Convolution/Turbo decoding(Viterbi Algorithm)
 - Signal received
 
+Here, I can provide a figure with you using **Simulink and Model-Based Design**, but sadly, it's just a **_SISO_** design diagram but **_NOT MIMO_**. However, I do not think they have differences in nature though MIMO is somewhat more complicated.
+![SISO](https://user-images.githubusercontent.com/40145471/129459558-5a2235ca-f3e4-4fc5-bd2f-f4d8042dacbd.png)
+Fig. A SISO System designed by Simulink
+
 ## Conclusion
 ### Parameters
 After carefully and prudentially comparing, the values of parameters are as follows:
