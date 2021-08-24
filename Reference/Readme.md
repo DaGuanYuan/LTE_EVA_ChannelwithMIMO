@@ -1,0 +1,5 @@
+- [MIMO-Rake Receiver in WCDMA (Pravindra Kumar and Anand Kumar, 2012)](https://www.researchgate.net/publication/233754253_MIMO-Rake_Receiver_in_WCDMA)
+- [Understanding LTE with MATLAB: From Mathematical Modeling to Simulation and Prototyping (Houman Zarrinkoub, 2014)](https://www.wiley.com/en-us/Understanding+LTE+with+MATLAB%3A+From+Mathematical+Modeling+to+Simulation+and+Prototyping-p-9781118443415)
+- [部分信道状态信息对MIMO_OFDM通信系统的影响_钟俊 (Jun Zhong and Qizhong Peng, 2019)](https://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZGTH200405003030.htm)
+- [一种Turbo码随机交织器的迭代估计方法 (Jun Liu, Jing Li, and Peidong Yu, 2015)](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2015140)
+- [一种低复杂度的近似最大似然MI__IO检测算法 (Wenbo Chen, Wei Li, and Xiaoyin Zhang, 2012)](https://patents.google.com/patent/CN100571098C/zh)
