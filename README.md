@@ -61,5 +61,3 @@ By Comprehesive consideration of **Communication Quality(Average BER), Transmiss
 |<=10dB|BPSK|7.32Mbit/s|
 |10~20dB|QPSK|14.64Mbit/s|
 |>=30dB|16QAM|29.28Mbit/s|
-
-## Future Works
